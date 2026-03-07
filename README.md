@@ -160,7 +160,16 @@ Poll automatically closes after expiration time.
 Poll Analytics
 Results displayed with interactive charts using Chart.js.
 
+## Application Screenshots
 
+### Home Page
+![Home](screenshots/home.png)
+
+### Poll Page
+![Poll](screenshots/poll.png)
+
+### Voting Page
+![Vote](screenshots/vote.png)
 
 
 
